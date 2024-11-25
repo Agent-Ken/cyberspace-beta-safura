@@ -1,4 +1,3 @@
-# Next.js 15 Social Media App -- CYBERSPACE
+# CYBERSPACE showcase for staff
 
-[SONRA NESE YAZ]
-
+Will be deleted later.
