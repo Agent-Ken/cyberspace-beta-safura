@@ -1,3 +1,3 @@
-# CYBERSPACE showcase for staff
+# Holberspace showcase
 
-Will be deleted later.
+For demonstration purposes only. Will be deleted later.
